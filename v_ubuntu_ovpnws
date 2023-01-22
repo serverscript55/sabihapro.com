@@ -1,0 +1,9 @@
+#!/bin/bash
+#Script Variables
+HOST='172.104.58.116';
+USER='fastnetv_sabihapro';
+PASS='fastnetv_sabihapro';
+DBNAME='fastnetv_sabihapro';
+PORT_TCP='1194';
+PORT_UDP='53';
+404: Not Found
